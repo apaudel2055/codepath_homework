@@ -32,7 +32,7 @@ Time spent: 40 hours spent in total
     - Vulnerability types:User Enumeration/IDOR
     - Tested in version:4.2
     - Fixed in version: Unknown (fixed by plugin)
-  - [ ] GIF Walkthrough:https://github.com/apaudel2055/codepath_homework/blob/WordPressvsKali/Vulnerability2.gif 
+  - [ ] GIF Walkthrough:![](https://github.com/apaudel2055/codepath_homework/blob/WordPressvsKali/Vulnerability3.gif)
   - [ ] Steps to recreate: Open the wordpress site. Add "?author=" without the quote following up with a number starting from 0. Open/inspect the source page and the username is visible.
   - [ ] Affected source code:
     - [htaccess](https://wordpress.org/support/article/htaccess/)
